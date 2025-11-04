@@ -1,16 +1,16 @@
-## Hi there 👋
+## About Me 
 
-I'm an Artficial Intelligence and Data Science student from Porto, Portugal.
+Hi there! My name is Benedita Gonçalves and I'm from Porto, Portugal.
 
 ---
 
-## 🎓 Education
+## Education 🎓
 - **BSc in Artificial Intelligence and Data Science** (FCUP & FEUP)  
 - **Erasmus+ Exchange @ LMU Munich**
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me 📫
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benedita-gon%C3%A7alves-643228290/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/beneditagoncalves)
