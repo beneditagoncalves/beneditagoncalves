@@ -5,6 +5,7 @@ Hi there! My name is Benedita Gonçalves and I'm from Porto, Portugal.
 ---
 
 ## Education 🎓
+- **MSc in Data Science and Engineering** (FEUP) 
 - **BSc in Artificial Intelligence and Data Science** (FCUP & FEUP)  
 - **Erasmus+ Exchange @ LMU Munich**
 
